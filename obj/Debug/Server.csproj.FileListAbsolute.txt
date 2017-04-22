@@ -1,0 +1,6 @@
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\casper\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
