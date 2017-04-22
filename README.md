@@ -1,5 +1,9 @@
 # BasicUDPClient
+
 Basic UDP Client Program
+
+
+
 
 # Introduction
 
@@ -7,9 +11,3 @@ This is the Basic UDP Client Program. You can catch the UDP data packet with tha
 
 If you need basic UDP listener program you can download and test for your requirements.
 
-
-# Explanations
-
-
-UDP Client 
-IPEndPoint
