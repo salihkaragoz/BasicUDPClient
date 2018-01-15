@@ -16,6 +16,7 @@ If you need basic UDP listener program you can download and test for your requir
 1. Clone this repository. 
 2. Open Project with Visual Studio.
 3. Debug and Run `Program.cs` file.
+4. For python run file under the PythonAPI folder.
 
 
 *********************************************************************************************************
