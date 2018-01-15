@@ -19,7 +19,9 @@ If you need basic UDP listener program you can download and test for your requir
 
 
 *********************************************************************************************************
-
+# Potential Problems
+https://stackoverflow.com/questions/44694061/unreachable-ip-socket-close-time-in-windows-os
+https://stackoverflow.com/questions/45011702/three-second-delay-for-closing-unreachable-ip-in-windows-os
 
 # Send UDP Data with Python
 
