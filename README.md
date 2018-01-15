@@ -11,6 +11,13 @@ This is the Basic UDP Client Program. You can catch the UDP data packet with tha
 
 If you need basic UDP listener program you can download and test for your requirements.
 
+# Installation
+
+1. Clone this repository. 
+2. Open Project with Visual Studio.
+3. Debug and Run `Program.cs` file.
+
+
 *********************************************************************************************************
 
 
